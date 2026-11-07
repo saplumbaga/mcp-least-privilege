@@ -88,7 +88,7 @@ An authorized client or model can still disclose data it receives. These control
 
 ## Related article and references
 
-- *The Agent Review*: [How to Give Your AI Chatbot Access to Your Data Without Exposing It](ARTICLE_URL_HERE) — **article link placeholder**.
+- *The Agent Review*: [How to Give Your AI Chatbot Access to Your Data Without Exposing It](https://www.linkedin.com/pulse/how-give-your-ai-chatbot-access-data-without-exposing-samil-hazir-dzgme)
 - [Official MCP SDK v2 HTTP guide](https://ts.sdk.modelcontextprotocol.io/v2/serving/http.html)
 - [Official tool registration guide](https://ts.sdk.modelcontextprotocol.io/v2/servers/tools.html)
 - [Official client guide](https://ts.sdk.modelcontextprotocol.io/v2/clients/connect)
